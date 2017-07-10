@@ -1,0 +1,11 @@
+---
+# All rights reserved InspectorGadget
+no-perm-message: "You have no permission to use this command without an Administrator's permission"
+# Banned Commands
+banned-commands:
+    - /ban-ip
+    - /op
+# Allowed Players to use these commands - ALL IN LOWER CAPS
+allowed-players:
+    - inspectorgadget
+...
