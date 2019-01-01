@@ -1,11 +1,13 @@
 ---
 # All rights reserved InspectorGadget
-no-perm-message: "You have no permission to use this command without an Administrator's permission"
+no-perm-message: "You do not have permisson to use this command, attempt was logged!"
 # Banned Commands
 banned-commands:
-    - /ban-ip
+    - /setuperm
     - /op
+    - /setgperm
+    - /deop
 # Allowed Players to use these commands - ALL IN LOWER CAPS
 allowed-players:
-    - inspectorgadget
+    - ArandomUser101183
 ...
